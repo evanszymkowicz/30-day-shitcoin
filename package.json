@@ -1,0 +1,19 @@
+{
+  "name": "30-day-shitcoin",
+  "version": "1.0.0",
+  "description": "Bitcoin indexes are the new ToDo lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanszymkowicz/30-day-shitcoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanszymkowicz/30-day-shitcoin/issues"
+  },
+  "homepage": "https://github.com/evanszymkowicz/30-day-shitcoin#readme"
+}
