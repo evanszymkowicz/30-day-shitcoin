@@ -1,13 +1,10 @@
-import Link from 'next/link';
-
+import Navbar from '../components/Navbar';
 
 const Index = () => (
-	<Layout>
-    <div>
-      <h1>Welcome to BitzPrice</h1>
-      <p>Check current Bitcoin rate</p>
-    </div>
-  </Layout>
+  <div>
+    <Navbar/>
+	  <h1>Welcome!</h1>
+  </div>
 );
 
-export default Index
+export default Index;
